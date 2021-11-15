@@ -1,0 +1,41 @@
+Attacker: Dragonborn:1hp
+Defender: Dragonborn:1hp
+
+Defender Dragonborn died
+Defender Dragonborn died
+Attacker: Dragonborn:1hp
+Defender: Dragonborn:4hp
+
+Defender Dragonborn died
+Attacker: Dragonborn:1hp
+Defender: Elf:1hp
+
+Defender Elf died
+Attacker: Dragonborn:1hp
+Defender: Archer:1hp
+
+Defender Archer died
+Attacker: Dragonborn:1hp
+Defender: Warrior:1hp
+
+Defender Warrior died
+Attacker: Dragonborn:1hp
+Defender: Elf:1hp
+
+Defender Elf died
+Attacker: Dragonborn:1hp
+Defender: Archer:4hp
+
+Attacker: Dragonborn:1hp
+Defender: Archer:1hp
+
+Defender Archer died
+Attacker: Dragonborn:1hp
+Defender: Wizard:1hp
+
+Defender Wizard died
+Attacker: Dragonborn:1hp
+Defender: Warrior:3hp
+
+Defender Warrior died
+Attackers win
