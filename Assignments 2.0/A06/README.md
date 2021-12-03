@@ -6,7 +6,3 @@ This diagram represents the steps and parts of forming a student transcritp. Fir
 
 ![](https://github.com/Allison2001/2143-OOP-Ricketts/blob/main/Assignments%202.0/A06/A06.jpg?raw=true)
 
-### Instructions
-
-- Open wiki at top of the page
-- Or click link: https://github.com/Allison2001/2143-OOP-Ricketts/wiki
