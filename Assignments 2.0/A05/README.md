@@ -7,4 +7,4 @@ I have created a wiki with multiple definitions of everyday object-oriented prog
 ### Instructions
 
 - Open wiki at top of the page
-- Or click link: https://github.com/Allison2001/2143-OOP-Ricketts.wiki.git
+- Or click link: https://github.com/Allison2001/2143-OOP-Ricketts/wiki
